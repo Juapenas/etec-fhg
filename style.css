@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    background-color: #2e3940;
+}
+
+.navbar{
+    background-color: #BF0413;
+}
+
+.logo{
+    width: 90%;
+}
+
+.nav-link{
+    font-size: 20px;
+    color: #f2f2f2;
+}
+
+.nav-link:hover{
+    transform: scale(1.0);
+    transition-duration: 0.5s;
+    color: #2e3940;
+}
+
+.entra{
+    position: absolute;
+    right: 50px;
+}
+
+.btn{
+    width: 100px;
+    height: 50px;
+}
+
+.card{
+    margin: 20px;
+}
+
+.btn-primary{
+    width: auto;
+    height: auto;
+}
+
+.jumbotron{
+    margin: 20px;
+    max-width:528px;
+}
+
+.aleatorio{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.rodape{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    height: auto;
+    background-color: #BF0413;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    box-shadow: 0px -5px 20px #000;
+    justify-content: center;
+}
+
+.float-right img{
+    width: 90%;
+}
+
+/* .social img{
+    width: 20px;
+    height: 20px;
+}
+
+.seta img{
+    position: absolute;
+    right: 80px;
+    margin-top: -50.5px;
+} */
